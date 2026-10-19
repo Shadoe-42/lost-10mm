@@ -46,7 +46,9 @@ Our reading: a car that gets short trips a few days a week, or that sees road sa
 | Tire age | Mazda generally recommends replacing tires at 6 years or older | Same | Replace at 5 years at the latest, whatever the tread says | Mazda verified, practice is stricter than Mazda |
 | Tire pressure | Check at least monthly | Same | Same | Mazda verified |
 | Battery | Not a Mazda interval | Not a Mazda interval | Test once a year, and use a maintenance charger if the car sits for days at a time | Our practice |
-| Top, seals, and drains | Not a Mazda interval | Not a Mazda interval | Clear the drains and inspect the seals each spring and after any long sit | Our practice |
+| Convertible top drains | Soft top: clean the drain filters at least once a year. Retractable hardtop: clean the drainage outlets at least every 6 months | Same | Clean the drain filters every spring and every fall. Tedious, not difficult | Mazda verified, practice hands-on |
+| Top seals | Not a Mazda interval | Not a Mazda interval | Inspect the seals each spring and after any long sit | Suggested, ⚠️ hands-on practice to confirm |
+| Door and rocker panel drain holes | Mazda says the drain holes in the lower edges of the doors and rocker panels must not be clogged, because trapped water causes rust | Same | Check that they are clear during the yearly lift inspection | Mazda verified, practice suggested |
 | Underbody inspection on a lift | Not a Mazda interval | Not a Mazda interval | Once a year, looking for rust, leaks, and uneven wear | Our practice |
 | Recalls | Not a Mazda interval | Not a Mazda interval | Look up your VIN once a year | Our practice |
 
@@ -58,7 +60,7 @@ Our reading: a car that gets short trips a few days a week, or that sees road sa
 
 **Every quarter.** A closer look at the coil connections, clips, and boots, plus the air filter.
 
-**Every six months.** Engine oil and filter, with a tire rotation.
+**Every six months, spring and fall.** Engine oil and filter, with a tire rotation. Clean the convertible top drain filters before the leaves fall and again after they are down.
 
 **Every year.** Pull the plugs and read the tips. Test the battery. Put the car on a lift and look underneath. Check for recalls.
 
@@ -78,6 +80,8 @@ Primary source: the 2021 Mazda MX-5 owner's manual (US edition, document code MX
 | Mexico tables, including the 24-month brake fluid replacement | Maintenance and Care chapter, pages 6-10 to 6-13 | Read from the manual |
 | Owner checks when refueling and monthly tire pressure | Maintenance and Care chapter, Owner Maintenance Precautions | Read from the manual |
 | Tires generally replaced at 6 years or older | Maintenance and Care chapter, Replacing a Tire note | Read from the manual |
+| Soft top drain filters (at least yearly), retractable hardtop drainage outlets (at least every 6 months), and the warning that blocked drains let water into the cabin | Maintenance and Care chapter, Appearance Care, pages 6-59 to 6-62, plus the caution in the roof operation section | Read from the manual |
+| Door and rocker panel drain holes must stay clear | Maintenance and Care chapter, Appearance Care | Read from the manual |
 | Fluid specs, FL-22 coolant, and the differential note | Specifications chapter, Lubricant Quality | Read from the manual |
 
 **Source note.** The first pass of this schedule used numbers from Mazda USA web pages, and several of them (24-month brake fluid, 80,000 km transmission oil, 200,000 km coolant) turned out to match the Mexico table and not the US one. Those values were removed. The PDF is the authority for this guide.

@@ -10,6 +10,7 @@ Guides for the 2021 Mazda MX-5 (ND2) Grand Touring. Start with the [schedule](sc
 | Transmission and differential fluid | Comfortable | Planned |
 | Spark plugs and coils | Comfortable | Planned |
 | Air filters | First-timer | Planned |
+| Convertible top drain cleaning | First-timer | Planned |
 | Lift inspection | Comfortable | Planned |
 
 Every guide follows the [template](../templates/task-guide-template.md), including the Verification block at the bottom.
