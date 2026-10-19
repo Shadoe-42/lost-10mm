@@ -42,10 +42,16 @@ Put the old filter next to the new one in daylight. This is the easiest old-vers
 
 The light test is the fastest check. Hold the filter flat against a bright window or a flashlight. If you cannot see light through most of the paper, it is loaded. ⚠️ Photos of a healthy filter, a worn one, and the new one side by side belong here once we have them.
 
+## Where things are
+
+![ND2 engine bay seen from the front. The airbox is the large black box low and in the center, with the intake hose running from it to the throttle body](images/engine-bay-overview.jpg)
+
+*The airbox is the large black box low in the engine bay. The ribbed hose leads from it to the throttle body.*
+
 ## Steps
 
 1. **Park and cool.** Level ground, engine off, hood up and propped.
-2. **Look before you touch.** Find the airbox. Check that the lid is seated, that nothing is hanging off it, and that the hose to the engine is tight. This is your before picture. ⚠️ Airbox location and appearance to confirm and photograph.
+2. **Look before you touch.** Find the airbox. Check that the lid is seated, that nothing is hanging off it, and that the hose to the engine is tight. This is your before picture. The airbox is the large black box low in the engine bay, shown in the photo above.
 3. **Open the lid.** Release the clips or remove the fasteners that hold it, whichever your car has. Lift the lid away without twisting the hose. Note how it is held so you can put it back exactly. ⚠️ Fastener type and count to confirm.
 4. **Note the orientation, then lift out the filter.** Notice which way it faces and how its edge seats, because the new one goes in the same way.
 5. **Look into the box.** Wipe loose debris out of the lower part with a rag, working carefully and keeping everything on the dirty side of the box. Do not let anything fall toward the engine side. If you find water, oil, or a lot of debris, find out where it came from before you go on.
@@ -67,7 +73,7 @@ Getting to the housing is a large job. The kit's guide has you remove the passen
 
 ## While the hood is up: the quarterly look
 
-You are already here, so take a minute for the rest of the quick look. Check that the connectors on the ignition coils are fully seated and their clips are intact, that wiring is not rubbing or cracked, and that nothing looks wet, oily, or different from last time. Once a year you take it further and pull the plugs, which is covered in the spark plug guide. ⚠️ Whether the engine cover needs to come off to see the coils is to confirm on the car.
+You are already here, so take a minute for the rest of the quick look. Check that the connectors on the ignition coils are fully seated and their clips are intact, that wiring is not rubbing or cracked, and that nothing looks wet, oily, or different from last time. The four coils sit in a row on top of the valve cover with no cover over them, so you can see them as soon as the hood is up. Once a year you take it further and pull the plugs, which is covered in the [spark plug guide](spark-plugs-and-coils.md).
 
 ## When it goes wrong
 
@@ -92,11 +98,11 @@ Primary source: the 2021 Mazda MX-5 owner's manual (US edition, document code MX
 | Replacement interval, Schedule 1 | 36 months or 36,000 km (22,500 miles), then again at 72 months | Manual, Scheduled Maintenance, Schedule 1 (US) | Verified |
 | Replacement interval, Schedule 2 | 36 months or 48,000 km (30,000 miles), then again at 72 months | Manual, Scheduled Maintenance, Schedule 2 (US) | Verified |
 | Dusty or sandy conditions | Clean the filter and replace if necessary more often than the recommended interval | Manual, Schedule 2 remarks, note 1 | Verified |
-| Cabin or pollen filter | The owner's manual does not describe one, and Flyin' Miata states the ND has no factory cabin air filter, though there is a pocket behind the dash that appears designed to hold one | Manual search found no entry. [Flyin' Miata product page](https://flyinmiata.com/products/nd-cabin-air-filter) | Community and hands-on. Owner experience across the ND series agrees: no traditional cabin filter |
+| Cabin or pollen filter | The owner's manual does not describe one, and Flyin' Miata states the ND has no factory cabin air filter, though there is a housing behind the dash that holds a coarse factory mesh screen | Manual search found no entry. [Flyin' Miata product page](https://flyinmiata.com/products/nd-cabin-air-filter) | Community and hands-on. Owner experience across the ND series agrees: no traditional cabin filter |
 | Factory housing and mesh screen | The kit's guide describes a filter door behind the passenger-side dash with an existing mesh screen inside, which is removed when the new filter goes in | [Flyin' Miata install guide (PDF)](https://s3.us-west-1.amazonaws.com/instructions.flyinmiata/interior_21/ND_cabin_air_filter_M21-30040.pdf) | Community, vendor document. The guide's photos agree with the text: the housing sits behind the lower dash panel in the passenger footwell area, with a door held by a lock tab on each side. ⚠️ Not seen on our car |
 | Aftermarket cabin filter kit | Flyin' Miata sells a kit with a cowl intake screen and a filter, installed behind the dash, and suggests replacing it about once a year | Same page | Community, vendor claim. Upgrade topic, not maintenance. We have not installed one |
 | Airbox location, fasteners, and filter part number | Not in the owner's manual | Needs hands-on inspection or Mazda service information | ⚠️ Open |
 | Light test for judging a filter | Hold the filter against a bright light and look for glow through the paper | General practice, widely used | Community, hands-on to confirm |
 | Sensor in the intake path | Described only in general terms | General knowledge | ⚠️ Location and name to confirm on the car |
 
-**Still open (⚠️):** airbox location and a photo of it, the lid fasteners, the replacement filter part number, our own cleaning-versus-replacing practice, whether the engine cover must come off to see the coils, a timed hands-on duration, and photos of a healthy filter, a worn one, and a new one.
+**Still open (⚠️):** the lid fasteners, the replacement filter part number, our own cleaning-versus-replacing practice, a timed hands-on duration, and photos of a healthy filter, a worn one, and a new one.

@@ -21,7 +21,7 @@ You helped a parent change the oil, or you did a set of brake pads once. You kno
 
 ## Current scope
 
-The 2021 Mazda MX-5 (ND2) Grand Touring, because that is the car the authors can verify by hand. The folder layout leaves room for sibling folders for other trims and generations later. A vague guide is a wrong guide, so we widen the scope only when we can verify the next car.
+The 2021 Mazda MX-5 (ND2) Grand Touring, because that is the car the author can verify by hand. The folder layout leaves room for sibling folders for other trims and generations later. A vague guide is a wrong guide, so we widen the scope only when we can verify the next car.
 
 ## What is here
 
@@ -31,10 +31,10 @@ The 2021 Mazda MX-5 (ND2) Grand Touring, because that is the car the authors can
 | [Brake and clutch fluid](nd2/brake-and-clutch-fluid.md) | Draft |
 | [Engine oil and filter](nd2/engine-oil-and-filter.md) | Draft |
 | [Transmission and differential fluid](nd2/transmission-and-differential-fluid.md) | Draft |
-| Spark plugs and coils | Planned |
+| [Spark plugs and coils](nd2/spark-plugs-and-coils.md) | Draft |
 | [Engine air filter](nd2/air-filter.md) | Draft |
-| Convertible top drain cleaning | Planned |
-| Lift inspection (rust, leaks, wear, bushings, door fit) | Planned |
+| [Convertible top drain cleaning](nd2/convertible-top-drains.md) | Draft |
+| [Lift inspection](nd2/lift-inspection.md) (rust, leaks, wear, bushings, door fit) | Draft |
 
 New guides start from [the template](templates/task-guide-template.md).
 
@@ -55,3 +55,5 @@ If you find a wrong number or a better explanation, open an issue or a pull requ
 Text in this repository is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). You may share and adapt it, with credit, under the same license. See [LICENSE](LICENSE).
 
 Guides are written in our own words from hands-on work and checked against Mazda's published documentation and community sources. We link to those sources and do not copy them.
+
+Written by Shadoe DiStefano ([Shadoe-42](https://github.com/Shadoe-42)). When you share or adapt these guides under the license, credit the author and link back to this repository.

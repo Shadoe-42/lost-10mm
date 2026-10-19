@@ -5,14 +5,14 @@
 | **Car** | 2021 Mazda MX-5 (ND2) Grand Touring, US market |
 | **Skill level** | First-timer, with a patient adult in charge and the safety block read twice. It is the classic first car job |
 | **Time** | ⚠️ To be replaced with a timed hands-on figure |
-| **Tools** | Jack stands or a lift (the car must sit level), floor jack, drain pan that holds at least 5 litres, socket or wrench for the drain plug (⚠️ size to confirm on the car), oil filter wrench or cap that fits your filter (⚠️ size to confirm), torque wrench, funnel, clean rags, gloves, eye protection |
-| **Parts and fluids** | Engine oil: SAE 0W-20 certified by the American Petroleum Institute for gasoline engines. Capacity is 4.3 L (4.5 US qt) with a new filter. A new oil filter (⚠️ part number to confirm). A new drain plug washer if the plug uses one (⚠️ to confirm) |
+| **Tools** | Jack stands or a lift (the car must sit level), floor jack, drain pan that holds at least 5 litres, 8 mm socket or wrench for the drain plug, adjustable oil filter wrench, which fits any filter and is our choice when you work on more than one vehicle (the K&N filter also has a 1-inch welded nut for a socket or wrench), torque wrench, funnel, clean rags, gloves, eye protection |
+| **Parts and fluids** | Engine oil: SAE 0W-20 certified by the American Petroleum Institute for gasoline engines. Capacity is 4.3 L (4.5 US qt) with a new filter. The brand matters less than the certification and the grade, and we mostly run Mobil 1 full synthetic. A new oil filter: the genuine Mazda part, Moss Miata number 902-911 (Mazda reference 1WPE-14-302), or the K&N option, Moss Miata number 904-378. A new crush washer for the drain plug every time, never reused |
 | **Interval** | Mazda's US tables set a ceiling of 12 months or 7,500 miles on the flexible setting, and 6 months or 5,000 miles on the fixed setting. Our practice is every 5,000 to 7,500 miles or 6 months, whichever comes first, using full synthetic. See the [schedule](schedule.md) |
 | **Helper jobs** | With an adult in charge, a kid can read the dipstick, wipe it, and say where the oil sits between MIN and MAX. They can also pour oil through the funnel in measured amounts, compare a jar of the old oil with fresh oil, wipe the drain plug and filter surfaces, hold the light, count the quarts, and write the log entry. Adults only: lifting, anything under the car, opening the drain plug and filter, handling hot or used oil, and torquing |
 
 ## Safety
 
-- **Never work under a car held up by a jack alone.** Use jack stands or a lift. Mazda's manual shows jacking positions for the factory jack only, and does not publish stand or lift points in the text. ⚠️ We have not yet verified stand and lift points for this guide.
+- **Never work under a car held up by a jack alone.** Use jack stands or a lift. Mazda's manual shows jacking positions for the factory jack only, and it does not publish stand or lift points in the text. ⚠️ We have not yet verified stand and lift points for this guide.
 - **Hot oil burns.** Warm oil drains faster and carries more suspended material out with it, but warm does not mean hot. Drive for a few minutes, then let the car sit a few minutes before you open anything. The exhaust is near the work area, so mind your arms.
 - **Slow down at the filter.** It is full of oil, it is usually reached from below, and a loose filter drops fast. Keep the drain pan under it, and keep your face out of the line of fire.
 - **Wear gloves and eye protection.** Used oil is a skin irritant, and a splash in the eye is a bad afternoon.
@@ -54,19 +54,19 @@ The filter has its own comparison. Set the old filter next to the new one before
 
 1. **Check what you have.** Oil, filter, washer if needed, a funnel, a pan big enough for the whole capacity, and the right tools for the drain plug and the filter. Do not open anything until you can close it again.
 2. **Warm the oil a little.** A short drive is enough. Then park on level ground and let the car sit a few minutes.
-3. **Lift the car and set it level.** Use stands or the lift. Give the car a firm shove to confirm it is stable before you get under it. ⚠️ Stand and lift points to be confirmed, and whether an underbody panel has to come off to reach the drain plug and filter.
+3. **Lift the car and set it level.** Use stands or the lift. Give the car a firm shove to confirm it is stable before you get under it. The drain plug sits at the bottom of the oil pan, under the underbody cover. ⚠️ Stand and lift points to be confirmed, and whether the cover has to come off completely or only partly, and how many fasteners hold it.
 4. **Take the filler cap off the engine.** It lets air in so the oil drains cleanly. It is shown in the engine compartment overview in the owner's manual.
-5. **Drain the oil.** Place the pan under the drain plug. Remove the plug and let it drain until it slows to a drip. Look at the oil and look at the plug. ⚠️ Drain plug location and socket size to be confirmed.
-6. **Remove the old filter.** Move the pan under it. Loosen it with the wrench and unscrew it by hand, keeping it upright as long as you can. Check that its rubber gasket came off with it. If the old gasket stays on the engine and a second filter goes on top, the two gaskets do not seal, and the oil goes everywhere. ⚠️ Filter location and wrench size to be confirmed.
+5. **Drain the oil.** Place the pan under the drain plug. Remove the plug and let it drain until it slows to a drip. Look at the oil and look at the plug.
+6. **Remove the old filter.** Move the pan under it. Loosen it with the wrench and unscrew it by hand, keeping it upright as long as you can. Check that its rubber gasket came off with it. If the old gasket stays on the engine and a second filter goes on top, the two gaskets do not seal, and the oil goes everywhere. The filter is on the right side of the engine, toward the front, mounted vertically on its housing, and is reached from below.
 7. **Clean the mating surfaces.** Wipe the engine's filter seat and the drain plug seat with a clean rag. Keep dirt out of the openings.
-8. **Prepare the new filter.** Wet its rubber gasket with a little fresh oil. Some people also fill the filter part way, which helps with the first moments after startup. ⚠️ Whether to pre-fill is a community habit we have not verified for this engine.
-9. **Install the new filter.** Thread it on by hand until the gasket touches, then tighten as the filter's instructions say. Do not use a wrench to tighten it, because overtightening damages the gasket and makes the next change harder. ⚠️ Confirm the filter's tightening instruction when we choose a part.
-10. **Close the drain.** Fit a new washer if the plug uses one, thread the plug by hand, and tighten to specification. ⚠️ Torque to be confirmed from Mazda service information.
+8. **Prepare the new filter.** Wet its rubber gasket with a little fresh oil. Pre-fill the filter part way with fresh oil as well, which gives the engine oil at the first moments after startup instead of a dry start. This is our practice on every vehicle we work on, street or track. Keep the filter upright as you fit it so the oil stays in.
+9. **Install the new filter.** Thread it on by hand until the gasket touches, then turn it hand tight plus a little more. Do not use a wrench to tighten it, because overtightening crushes the gasket and can cause a leak, and makes the next change harder.
+10. **Close the drain.** Fit a new crush washer, because it is a one-use part, thread the plug by hand, and tighten with a torque wrench. A published figure is 22 to 30 ft-lbs (about 30 to 41 N·m). ⚠️ That figure comes from an uncited third-party page, so confirm it in Mazda service information before we call it verified.
 11. **Lower the car and fill.** Put the car on level ground and pour in most of the capacity, then stop. Mazda's figure is 4.3 L (4.5 US qt) with a new filter. Treat that as a cross-check and let the dipstick decide.
 12. **Check the level.** Wait a few minutes, pull the dipstick, wipe it, push it in fully, and read it. Add a little at a time until the level sits at MAX. Do not overfill, because Mazda warns that too much oil can cause engine damage.
 13. **Start and look.** Start the engine and let it idle for about half a minute. The oil pressure light should go out within a moment, and you should see no drip at the filter or the plug. If the light stays on, shut the engine off at once.
 14. **Recheck the level.** Shut off the engine, wait at least 5 minutes, and read the dipstick again. Top up if needed.
-15. **Reset the oil data.** Mazda says to reset it after every change, whatever the wrench light shows. ⚠️ The reset procedure is in the Mazda Connect manual, which we do not have in the repo. Add it here once confirmed on the car.
+15. **Reset the oil data.** Mazda says to reset it after every change, whatever the wrench light shows. On the infotainment screen, go to Applications, Vehicle Status Monitor, Maintenance, Oil Change, then Reset. The reset is how the car restarts its oil life count, so do not skip it.
 16. **Look under the car after your first drive.** Check the plug and the filter for weeping, and recheck the level.
 
 ## When it goes wrong
@@ -95,12 +95,18 @@ Primary source: the 2021 Mazda MX-5 owner's manual (US edition, document code MX
 | Flexible maintenance, Schedule 1 | Change when the wrench indicator light comes on, within 1,000 km (600 miles) or 15 days of the light. Maximum 12 months or 12,000 km (7,500 miles) | Manual, pages 6-4 and 6-5 | Verified |
 | Fixed maintenance, Schedule 2 | Every 6 months or 8,000 km (5,000 miles) | Manual, Schedule 2 table | Verified |
 | Reset after every change | Reset the engine oil data whenever replacing the oil, whatever the wrench light shows | Manual, Scheduled Maintenance remarks | Verified |
-| Reset procedure | Not in the owner's manual. It points to the Mazda Connect manual | Manual, page 6-4 | ⚠️ Open |
+| Reset procedure | Applications, Vehicle Status Monitor, Maintenance, Oil Change, Reset, on the infotainment screen. The owner's manual points to the Mazda Connect manual for details | Hands-on, manual page 6-4 for the pointer | Hands-on |
 | Dipstick procedure | Level ground, warm engine, off for at least 5 minutes, wipe, reinsert fully, pull and read between MIN and MAX. Check the dipstick O-ring. Do not overfill | Manual, page 6-21 | Verified |
 | Oil pressure warning | Park on level ground, shut off, wait 5 minutes, check level, add oil without overfilling. If the light stays on, stop the engine and tow | Manual, Warning Lights chapter | Verified |
 | Dealer note | The manual says oil changes should be performed by an Authorized Mazda Dealer, and warns that fluids and parts used for owner maintenance must meet Mazda standards | Manual, pages 6-3 and 6-20 | Verified, we follow the standards and keep records |
 | Our interval | Every 5,000 to 7,500 miles or 6 months, whichever comes first, full synthetic | Hands-on practice | Our practice. Inside Mazda's 6-month fixed limit |
-| Locations, sizes, torque, washer, filter part number | Not in the owner's manual | Needs Mazda service information or hands-on measurement | ⚠️ Open |
-| Pre-filling the filter | Common habit among owners | General practice | Community, ⚠️ not verified for this engine |
+| Drain plug location and washer | At the bottom of the oil pan, under the underbody cover. Crush washer replaced every time | Hands-on | Hands-on |
+| Drain plug size | 8 mm | Hands-on | Hands-on |
+| Drain plug torque | 22 to 30 ft-lbs | [Miata Nuts torque list](https://miatanuts.com/2024/07/24/here-are-some-of-the-most-common-torque-specifications-for-the-mazda-miata-nd-2016-and-newer/). The page cites no source and does not separate ND1 from ND2 | Community, uncited. ⚠️ Confirm in Mazda service information |
+| Filter location | Right side of the engine, toward the front, vertical on its housing, reached from below | Hands-on | Hands-on |
+| Filter, genuine | Mazda Genuine Parts, part 902-911, Mazda reference 1WPE-14-302. Moss lists it for the ND, 2016 to 2025 | [Moss Miata listing](https://mossmiata.com/902-911-oil-filter-by-mazda) | Community, retailer listing. Confirm the number against your parts catalog before you order |
+| Filter, K&N | Part 904-378, with a 1-inch welded nut. Moss lists it for the ND, 2016 to 2024, which covers a 2021 | [Moss Miata listing](https://mossmiata.com/904-378-k-n-oil-filter) | Community, retailer listing. Confirm the number against your parts catalog before you order |
+| Filter tightening | Hand tight plus a little more, gasket wetted with oil, filter pre-filled. Do not overtighten | Hands-on | Hands-on |
+| Pre-filling the filter | Done on every vehicle, street and track | Hands-on | Our practice |
 
-**Still open (⚠️):** drain plug and filter locations and sizes, drain plug torque, whether the plug washer is reusable, the filter part number and its tightening instruction, whether an underbody panel has to come off, stand and lift points, the oil data reset procedure, the oil brand and grade we run, a timed hands-on duration, and photos of the jar comparison, old versus new filter, and the dipstick at MAX.
+**Still open (⚠️):** the drain plug torque confirmed from a primary source, how the underbody cover comes off, stand and lift points, a timed hands-on duration, and photos of the jar comparison, old versus new filter, and the dipstick at MAX.

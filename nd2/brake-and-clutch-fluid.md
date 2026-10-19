@@ -14,7 +14,7 @@
 
 This job puts you under a car and in front of its brakes. Both deserve respect.
 
-- **Never work under a car held up by a jack alone.** Use jack stands or a lift. Mazda's manual shows the front and rear jacking positions for the factory jack only, and it warns against jacking anywhere else. It does not publish stand or lift points in the text, so confirm yours before you rely on them. ⚠️ We have not yet verified stand and lift points for this guide.
+- **Never work under a car held up by a jack alone.** Use jack stands or a lift. Mazda's manual shows jacking positions for the factory jack only, and it does not publish stand or lift points in the text. ⚠️ We have not yet verified stand and lift points for this guide.
 - **Brake fluid eats paint.** Keep rags handy, wipe spills at once, and rinse with water.
 - **Wear gloves and eye protection.** Fluid in the eye is a bad afternoon.
 - **Never let the reservoir run dry while you bleed.** Air pulled into the master cylinder is a much bigger job to chase out than the one you set out to do.

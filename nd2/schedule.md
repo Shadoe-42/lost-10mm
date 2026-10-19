@@ -39,8 +39,8 @@ Our reading: a car that gets short trips a few days a week, or that sees road sa
 | Brake and clutch fluid replacement | Not listed in the US tables | Not listed in the US tables | Every 24 months, whatever the odometer says. Mazda lists a 24-month replacement in its Mexico tables for the same car | Our practice, supported by Mazda's Mexico table |
 | Disc brakes | Inspect every 12 months | Inspect every 6 months | Look at pad thickness and rotor condition every time a wheel is off | Mazda verified |
 | Brake lines, hoses, and connections | Inspect every 24 months | Inspect every 18 months | Look for wetness and cracking during the yearly lift inspection | Mazda verified |
-| Manual transmission oil | Replace every 96,000 km (60,000 mi) or 4 years | Replace every 48,000 km (30,000 mi) or 2 years | ⚠️ Pending the transmission and differential guide | Mazda verified, ⚠️ practice open |
-| Rear differential oil | No scheduled replacement. Mazda says to replace it if the unit is submerged in water | Same | ⚠️ Owners debate this and some change it earlier. Recommendation pending | Mazda verified, ⚠️ practice open |
+| Manual transmission oil | Replace every 96,000 km (60,000 mi) or 4 years | Replace every 48,000 km (30,000 mi) or 2 years | See the [transmission and differential guide](transmission-and-differential-fluid.md). ⚠️ Our own interval is still open | Mazda verified, ⚠️ practice open |
+| Rear differential oil | No scheduled replacement. Mazda says to replace it if the unit is submerged in water | Same | Owners debate this and some change it earlier. See the [transmission and differential guide](transmission-and-differential-fluid.md). ⚠️ Our recommendation is still open | Mazda verified, ⚠️ practice open |
 | Coolant (FL-22) | First replacement at 192,000 km (120,000 mi) or 10 years, then every 96,000 km (60,000 mi) or 5 years | Same, plus a level inspection every 6 months | Check level and condition once a year | Mazda verified |
 | Tire rotation | Every 12,000 km (7,500 mi) | Every 8,000 km (5,000 mi) | Rotate with the oil change | Mazda verified |
 | Tire age | Mazda generally recommends replacing tires at 6 years or older | Same | Replace at 5 years at the latest, whatever the tread says | Mazda verified, practice is stricter than Mazda |
@@ -49,9 +49,16 @@ Our reading: a car that gets short trips a few days a week, or that sees road sa
 | Convertible top drains | Soft top: clean the drain filters at least once a year. Retractable hardtop: clean the drainage outlets at least every 6 months | Same | Clean the drain filters every spring and every fall. Tedious, not difficult | Mazda verified, practice hands-on |
 | Top seals | Not a Mazda interval | Not a Mazda interval | Inspect the seals each spring and after any long sit | Suggested, ⚠️ hands-on practice to confirm |
 | Door and rocker panel drain holes | Mazda says the drain holes in the lower edges of the doors and rocker panels must not be clogged, because trapped water causes rust | Same | Check that they are clear during the yearly lift inspection | Mazda verified, practice suggested |
-| Bolts and nuts on chassis and body | Tighten every 24 months | Tighten every 18 months | Check during the yearly lift inspection | Mazda verified |
+| Bolts and nuts on chassis and body | Tighten every 24 months | Tighten every 18 months | Check during the yearly [lift inspection](lift-inspection.md) | Mazda verified, ⚠️ Mazda does not list which bolts |
+| Steering operation and linkages | Inspect every 24 months | Inspect every 18 months | Part of the yearly lift inspection | Mazda verified |
+| Suspension, ball joints, and wheel bearing play | Inspect every 24 months | Inspect every 18 months | Part of the yearly lift inspection, with close attention to wear items and to anything that does not match the other side | Mazda verified |
+| Driveshaft dust boots | Inspect every 24 months | Inspect every 18 months | Part of the yearly lift inspection | Mazda verified |
+| Fuel lines and hoses | Inspect every 24 months | Inspect every 18 months | Part of the yearly lift inspection | Mazda verified |
+| Hoses and tubes for emission | Inspect every 48 months | Inspect every 36 months | Part of the yearly lift inspection | Mazda verified |
+| Exhaust system and heat shields | Inspect at 60 months (37,500 miles) | Inspect at 42 months (35,000 miles) | Part of the yearly lift inspection | Mazda verified |
+| Locks and hinges | No row on the US Schedule 1 table | Lubricate every 6 months | ⚠️ Our own lubrication practice is open | Mazda verified for Schedule 2 |
 | Door bushings and hinges | Not a Mazda interval | Not a Mazda interval | Look at both during the yearly full-car inspection. Bushings wear slowly from years of opening and closing, so this is an occasional look, not a monitored item. If a door gets hard to close or latch, examine both. Panel gaps are an optional drift check for owners who notice them | Hands-on practice, ⚠️ factory part and wear signs still to document |
-| Underbody inspection on a lift | Not a Mazda interval | Not a Mazda interval | Once a year, looking for rust, leaks, uneven wear, and worn suspension bushings | Our practice, ⚠️ suspension bushing look suggested |
+| Underbody inspection on a lift | Not a Mazda interval | Not a Mazda interval | Once a year, looking for rust, leaks, uneven wear, and worn suspension bushings | Our practice. See the [lift inspection guide](lift-inspection.md) |
 | Recalls | Not a Mazda interval | Not a Mazda interval | Look up your VIN once a year | Our practice |
 
 ## The same thing, sorted by how often you touch it
