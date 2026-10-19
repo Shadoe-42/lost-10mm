@@ -4,7 +4,7 @@
 |---|---|
 | **Car** | 2021 Mazda MX-5 (ND2) Grand Touring, soft top, US market. The retractable hardtop has a different drainage system and is not covered here |
 | **Skill level** | First-timer. It is tedious, not difficult |
-| **Time** | ⚠️ To be replaced with a timed hands-on figure |
+| **Time** | Plan on about 30 to 60 minutes the first time, for both sides, including the compressed air step (⚠️ estimate, to be replaced with a timed hands-on figure) |
 | **Tools** | A flashlight, a soft brush or a soft cloth, and a regulated compressed air source for a low-pressure blast. Mazda lists no tools |
 | **Parts and fluids** | None. We have never had to replace a filter, so we have not looked up a part number (⚠️ open) |
 | **Interval** | Mazda says clean the drain filters at least once a year. Our practice is every spring and every fall. See the [schedule](schedule.md) |

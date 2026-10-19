@@ -4,7 +4,7 @@
 |---|---|
 | **Car** | 2021 Mazda MX-5 (ND2) Grand Touring, US market |
 | **Skill level** | First-timer. This is the best first job on the car |
-| **Time** | ⚠️ To be replaced with a timed hands-on figure. Expect minutes, not hours |
+| **Time** | Plan on about 10 to 20 minutes (⚠️ estimate, to be replaced with a timed hands-on figure) |
 | **Tools** | Possibly a screwdriver or a small socket, depending on how the airbox lid is held (⚠️ to confirm on the car), a clean rag, a flashlight, gloves are optional |
 | **Parts and fluids** | A replacement engine air filter that matches your car (⚠️ part number to confirm). Nothing else |
 | **Interval** | Mazda says replace at 36 months on both schedules, with a mileage backstop. We look at it every quarter. See the [schedule](schedule.md) |

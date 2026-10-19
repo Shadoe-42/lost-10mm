@@ -4,7 +4,7 @@
 |---|---|
 | **Car** | 2021 Mazda MX-5 (ND2) Grand Touring, US market |
 | **Skill level** | Comfortable. The work is simple, but a dropped plug, a cross-threaded plug, or debris in a cylinder is expensive, so care matters more than skill |
-| **Time** | ⚠️ To be replaced with a timed hands-on figure |
+| **Time** | Plan on about an hour to an hour and a half the first time, plus time for the engine to cool completely beforehand (⚠️ estimate, to be replaced with a timed hands-on figure) |
 | **Tools** | Spark plug socket (16 mm, which is 5/8 inch) on an extension, ratchet, 8 mm socket for the coil bolts, torque wrench, gloves, flashlight, a tray or egg carton to keep the plugs in cylinder order, a gapping tool if you adjust the gap, rags, and a brush, vacuum, or compressed air to clear the plug wells before you pull a plug |
 | **Parts and fluids** | A set of four plugs. Mazda lists genuine plug numbers PE5R-18-110 or PE5S-18-110. We run NGK ruthenium plugs. We also use dielectric grease inside the coil boots and a small amount of anti-seize on the plug threads (⚠️ see the anti-seize note in step 10) |
 | **Interval** | Mazda says replace every 75,000 miles (120,000 km) on both schedules. Our practice is a quick look at the coil connections every quarter, and a yearly pull to read the plugs. See the [schedule](schedule.md) |

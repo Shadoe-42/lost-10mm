@@ -4,7 +4,7 @@
 |---|---|
 | **Car** | 2021 Mazda MX-5 (ND2) Grand Touring, US market |
 | **Skill level** | First-timer, with a patient adult in charge and the safety block read twice. It is the classic first car job |
-| **Time** | ⚠️ To be replaced with a timed hands-on figure |
+| **Time** | Plan on about an hour to an hour and a half the first time, including setup, the drain, and cleanup (⚠️ estimate, to be replaced with a timed hands-on figure) |
 | **Tools** | Jack stands or a lift (the car must sit level), floor jack, drain pan that holds at least 5 litres, 8 mm socket or wrench for the drain plug, adjustable oil filter wrench, which fits any filter and is our choice when you work on more than one vehicle (the K&N filter also has a 1-inch welded nut for a socket or wrench), torque wrench, funnel, clean rags, gloves, eye protection |
 | **Parts and fluids** | Engine oil: SAE 0W-20 certified by the American Petroleum Institute for gasoline engines. Capacity is 4.3 L (4.5 US qt) with a new filter. The brand matters less than the certification and the grade, and we mostly run Mobil 1 full synthetic. A new oil filter: the genuine Mazda part, Moss Miata number 902-911 (Mazda reference 1WPE-14-302), or the K&N option, Moss Miata number 904-378. A new crush washer for the drain plug every time, never reused |
 | **Interval** | Mazda's US tables set a ceiling of 12 months or 7,500 miles on the flexible setting, and 6 months or 5,000 miles on the fixed setting. Our practice is every 5,000 to 7,500 miles or 6 months, whichever comes first, using full synthetic. See the [schedule](schedule.md) |

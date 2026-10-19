@@ -4,7 +4,7 @@
 |---|---|
 | **Car** | 2021 Mazda MX-5 (ND2) Grand Touring, US market, manual transmission |
 | **Skill level** | Comfortable. Nothing here is hard, but the order of operations matters, and you will be under a lifted car |
-| **Time** | ⚠️ To be replaced with a timed hands-on figure |
+| **Time** | Plan on about one and a half to two hours the first time, for both units (⚠️ estimate, to be replaced with a timed hands-on figure) |
 | **Tools** | Jack stands or a lift (the car must sit level), floor jack, torque wrench, sockets or wrenches for the drain and fill plugs (⚠️ sizes to confirm on the car), hand-pump or squeeze-bottle fluid transfer pump with a hose, drain pan that holds at least 3 litres, clean rags, gloves, eye protection |
 | **Parts and fluids** | Manual transmission: Mazda Original Long Life Gear Oil IS, 2.0 L. Rear differential: Mazda Long Life Hypoid Gear Oil SG1, 0.6 L. New drain and fill plug washers or gaskets if the plugs use them (⚠️ to confirm) |
 | **Interval** | Transmission: Mazda says every 60,000 miles or 4 years on Schedule 1, and every 30,000 miles or 2 years on Schedule 2, whichever comes first. Differential: Mazda says replace only if the housing has been submerged in water. Our practice is open (⚠️). See the [schedule](schedule.md) |
