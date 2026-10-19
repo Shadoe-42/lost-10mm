@@ -49,7 +49,9 @@ Our reading: a car that gets short trips a few days a week, or that sees road sa
 | Convertible top drains | Soft top: clean the drain filters at least once a year. Retractable hardtop: clean the drainage outlets at least every 6 months | Same | Clean the drain filters every spring and every fall. Tedious, not difficult | Mazda verified, practice hands-on |
 | Top seals | Not a Mazda interval | Not a Mazda interval | Inspect the seals each spring and after any long sit | Suggested, ⚠️ hands-on practice to confirm |
 | Door and rocker panel drain holes | Mazda says the drain holes in the lower edges of the doors and rocker panels must not be clogged, because trapped water causes rust | Same | Check that they are clear during the yearly lift inspection | Mazda verified, practice suggested |
-| Underbody inspection on a lift | Not a Mazda interval | Not a Mazda interval | Once a year, looking for rust, leaks, and uneven wear | Our practice |
+| Bolts and nuts on chassis and body | Tighten every 24 months | Tighten every 18 months | Check during the yearly lift inspection | Mazda verified |
+| Door bushings and hinges | Not a Mazda interval | Not a Mazda interval | Look at both during the yearly full-car inspection. Bushings wear slowly from years of opening and closing, so this is an occasional look, not a monitored item. If a door gets hard to close or latch, examine both. Panel gaps are an optional drift check for owners who notice them | Hands-on practice, ⚠️ factory part and wear signs still to document |
+| Underbody inspection on a lift | Not a Mazda interval | Not a Mazda interval | Once a year, looking for rust, leaks, uneven wear, and worn suspension bushings | Our practice, ⚠️ suspension bushing look suggested |
 | Recalls | Not a Mazda interval | Not a Mazda interval | Look up your VIN once a year | Our practice |
 
 ## The same thing, sorted by how often you touch it
@@ -82,6 +84,7 @@ Primary source: the 2021 Mazda MX-5 owner's manual (US edition, document code MX
 | Tires generally replaced at 6 years or older | Maintenance and Care chapter, Replacing a Tire note | Read from the manual |
 | Soft top drain filters (at least yearly), retractable hardtop drainage outlets (at least every 6 months), and the warning that blocked drains let water into the cabin | Maintenance and Care chapter, Appearance Care, pages 6-59 to 6-62, plus the caution in the roof operation section | Read from the manual |
 | Door and rocker panel drain holes must stay clear | Maintenance and Care chapter, Appearance Care | Read from the manual |
+| Chassis and body bolts and nuts: tighten every 24 months (Schedule 1) or 18 months (Schedule 2) | Maintenance and Care chapter, pages 6-5 to 6-7 | Read from the manual |
 | Fluid specs, FL-22 coolant, and the differential note | Specifications chapter, Lubricant Quality | Read from the manual |
 
 **Source note.** The first pass of this schedule used numbers from Mazda USA web pages, and several of them (24-month brake fluid, 80,000 km transmission oil, 200,000 km coolant) turned out to match the Mexico table and not the US one. Those values were removed. The PDF is the authority for this guide.

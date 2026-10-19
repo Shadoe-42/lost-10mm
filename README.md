@@ -14,7 +14,9 @@ You helped a parent change the oil, or you did a set of brake pads once. You kno
 
 - **Why before how.** Every guide explains why a task exists and how the mechanism works before it tells you what to turn. Once you understand the system, the steps stop being a recipe you follow and become something you can adapt.
 - **Healthy baseline first.** Each guide shows what a good car looks like before it shows what a bad one looks like. Most problems get caught by noticing drift from normal, so you need to know normal.
+- **Old next to new.** Every guide that replaces or wears a part shows what new looks like beside what is worn out or needs work. Fluids, filters, tires, gaskets, bushings: the habit is the same, and seeing the two together is the fastest way to learn the difference.
 - **Calendar first, odometer second.** Fluids age whether the car moves or not. A car that sits a lot still needs the service, so the schedule is built around time.
+- **Room for a helper.** Every guide names the jobs a kid can safely own and the ones that stay with the adult. Learning to read a level or compare a color is how a person starts to recognize normal, and a lesson repeated a few times sticks.
 - **Honest verification.** Every guide ends with a Verification block that says which numbers were checked against which source, which came from the community, which came from hands-on work, and which are still marked with a warning flag (⚠️). Wrong specs multiply, so we show our work.
 
 ## Current scope
@@ -28,11 +30,11 @@ The 2021 Mazda MX-5 (ND2) Grand Touring, because that is the car the authors can
 | [ND2 schedule](nd2/schedule.md) | Draft |
 | [Brake and clutch fluid](nd2/brake-and-clutch-fluid.md) | Draft |
 | Engine oil and filter | Planned |
-| Transmission and differential fluid | Planned |
+| [Transmission and differential fluid](nd2/transmission-and-differential-fluid.md) | Draft |
 | Spark plugs and coils | Planned |
 | Air filters | Planned |
 | Convertible top drain cleaning | Planned |
-| Lift inspection (rust, leaks, wear) | Planned |
+| Lift inspection (rust, leaks, wear, bushings, door fit) | Planned |
 
 New guides start from [the template](templates/task-guide-template.md).
 

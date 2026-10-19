@@ -8,6 +8,7 @@
 | **Tools** | Jack stands or a lift, floor jack, lug wrench, torque wrench, flare-nut or box wrench for the bleeder screws (⚠️ size to confirm on the car), clear hose, catch bottle, turkey baster or fluid syringe, rags, gloves, eye protection |
 | **Parts and fluids** | Fresh brake fluid. The US owner's manual specifies SAE J1703 or FMVSS116 DOT-3. One 1-litre bottle is the usual amount, and a second bottle is cheap insurance. Optional: one-way-valve bleed hose, vacuum bleeder, or pressure bleeder |
 | **Interval** | Every 24 months, whatever the odometer says. See the [schedule](schedule.md) |
+| **Helper jobs** | With an adult in charge, a kid can read the reservoir against the MAX and MIN lines, compare a jar of the old fluid with fresh fluid to see what aging looks like, wipe dust caps and spills, hold the light, and write the log entry. Whoever can comfortably reach the pedal presses it on your count while you work the bleeder, with the car on stands and the engine off. That is usually an older kid or a shorter adult, because the pedal needs a certain reach even in a Miata. Adults only: lifting, anything under the car, opening bleeders, handling used fluid, and torquing the wheels |
 
 ## Safety
 
@@ -19,6 +20,7 @@ This job puts you under a car and in front of its brakes. Both deserve respect.
 - **Never let the reservoir run dry while you bleed.** Air pulled into the master cylinder is a much bigger job to chase out than the one you set out to do.
 - **Test the brakes before you drive anywhere.** A firm pedal in the driveway comes first. Then a slow stop in an empty lot. Then the road.
 - **Used fluid is hazardous waste.** Take it to a parts store or waste facility that accepts it. Do not pour it down a drain or onto the ground.
+- **Keep helpers out from under a lifted car.** Anyone small enough to wander under it stays clear of the work area until the car is back on the ground. A helper in the driver's seat only presses the pedal on your count, with the engine off and the car solidly on stands. Hand tools and fluid are not toys.
 
 ## Why this exists
 
@@ -41,6 +43,15 @@ Learn this baseline first. Every other section depends on it.
 - **Brake pedal.** Firm, the same height every time, and no sinking when you hold steady pressure.
 - **Clutch pedal.** Smooth, consistent travel, with the same engagement point every day.
 - **Around the wheels.** Dry. No wet spots on the inside of the wheel, no dark trails below the calipers, bleeder dust caps in place.
+
+## Old versus new
+
+Fluid is the one part of this job you can set side by side. Pour a little of the fluid that comes out of the car into a clear jar, and put it next to the freshly opened bottle.
+
+- **New:** clear, light amber, with no floating bits.
+- **Worn out:** darker toward brown, and murky if it has been neglected.
+
+Color is a prompt, not a measurement. Fluid can be tired before it looks dark, which is why the calendar rule decides when to change it and the color only confirms what the calendar already told you. Photos of the jar comparison belong here once we have them.
 
 ## Steps
 

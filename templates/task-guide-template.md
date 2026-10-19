@@ -12,6 +12,7 @@
 | **Tools** | Exact list, with sizes |
 | **Parts and fluids** | Exact list, with specs |
 | **Interval** | Calendar interval first, mileage second |
+| **Helper jobs** | Steps a kid can safely own with an adult in charge, and the steps that stay adults-only. Pick jobs that teach the baseline, such as reading a level or comparing a color, and name the lesson in a few words |
 
 ## Safety
 
@@ -24,6 +25,10 @@ The design reasoning. What does this part or fluid do, how does the mechanism wo
 ## What healthy looks like
 
 The baseline. What this system looks, sounds, and feels like when it is behaving. Photos here when we have them.
+
+## Old versus new
+
+For every part or fluid this job replaces, or that wears, show what new looks like next to what is worn out or needs work, and say how to tell the difference. Use a photo of the real old part beside the new one when we have it. Skip this section only when the job replaces nothing and wears nothing.
 
 ## Steps
 
