@@ -29,7 +29,7 @@ The 2021 Mazda MX-5 (ND2) Grand Touring, because that is the car the authors can
 |---|---|
 | [ND2 schedule](nd2/schedule.md) | Draft |
 | [Brake and clutch fluid](nd2/brake-and-clutch-fluid.md) | Draft |
-| Engine oil and filter | Planned |
+| [Engine oil and filter](nd2/engine-oil-and-filter.md) | Draft |
 | [Transmission and differential fluid](nd2/transmission-and-differential-fluid.md) | Draft |
 | Spark plugs and coils | Planned |
 | [Engine air filter](nd2/air-filter.md) | Draft |

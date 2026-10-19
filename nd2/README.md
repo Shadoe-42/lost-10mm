@@ -6,7 +6,7 @@ Guides for the 2021 Mazda MX-5 (ND2) Grand Touring. Start with the [schedule](sc
 |---|---|---|
 | [Schedule](schedule.md) | Everyone | Draft |
 | [Brake and clutch fluid](brake-and-clutch-fluid.md) | Comfortable | Draft |
-| Engine oil and filter | First-timer | Planned |
+| [Engine oil and filter](engine-oil-and-filter.md) | First-timer | Draft |
 | [Transmission and differential fluid](transmission-and-differential-fluid.md) | Comfortable | Draft |
 | Spark plugs and coils | Comfortable | Planned |
 | [Engine air filter](air-filter.md) | First-timer | Draft |
