@@ -1,6 +1,6 @@
 # ND2 maintenance schedule
 
-A calendar-first schedule for a 2021 Mazda MX-5 (ND2) Grand Touring.
+A calendar-first schedule for a 2021 Mazda MX-5 (ND2) Grand Touring sold in the United States.
 
 ## Why it is built around the calendar
 
@@ -8,51 +8,78 @@ Most of what wears out on a Miata that gets driven a few days a week does not we
 
 So every task below leads with a time interval. The mileage figure is a backstop, not the main rule.
 
-## Two columns, kept honest
+## Read the right table
 
-The **Mazda interval** column comes from Mazda's published owner's manual pages. The **Our practice** column is what we actually do and why, and it is labeled as ours so nobody mistakes a habit for a factory requirement.
+Mazda prints different maintenance tables for different markets, and the numbers are not the same. The 2021 owner's manual has one set for the United States, Canada, and Puerto Rico, and a separate set for Mexico. The Mexico tables, for example, list a brake fluid replacement that the US tables do not, and they use different transmission oil and coolant intervals. Everything in the Mazda columns below comes from the US tables. If you read a number on a forum or a web page, check which market it came from.
 
-> ⚠️ Mazda lists intervals in months and kilometers. Mile figures here are rounded conversions. The pages we checked cover the 2020 (Schedule 1) and 2022 (Schedule 2) US MX-5. We have not yet confirmed which schedule applies to a 2021 car, so check your own manual before you treat a number as final.
+## Which US schedule applies to you
+
+The US tables come in two versions. **Schedule 1** is for normal driving. **Schedule 2** is for severe conditions, and Mazda says to follow it if any of these describe how the car is used:
+
+- Repeated short-distance driving
+- Dusty conditions
+- Extended use of brakes
+- Areas where salt or other corrosive materials are used
+- Rough or muddy roads
+- Extended idling or low-speed operation
+- Long periods in cold temperatures or an extremely humid climate
+- Extremely hot conditions
+- Continual mountain driving
+
+Our reading: a car that gets short trips a few days a week, or that sees road salt in winter, meets the definition on its own, so Schedule 2 is the honest column for many owners. Check the list against your own driving and choose.
 
 ## The schedule
 
-| Task | Mazda interval | Our practice | Status |
-|---|---|---|---|
-| Brake fluid | Replace every 24 months or 40,000 km (about 25,000 mi) | Every 24 months, however little you drove | Verified against Mazda pages |
-| Clutch fluid | No replacement interval listed, level checks only | Flush it with the brake fluid at every brake service, because the two systems share a reservoir | Community practice |
-| Brake and clutch fluid level | Check every 6 months or 10,000 km (about 6,200 mi) | Look at the reservoir every time the hood is open | Verified against Mazda pages |
-| Engine oil and filter | ⚠️ Not yet checked | Treat roughly a year as the ceiling for a lightly driven car, sooner if most trips are short | ⚠️ Open |
-| Air filter | Replace every 12 months or 20,000 km (about 12,500 mi) | Look at it every quarter | Verified against Mazda pages |
-| Spark plugs | Inspect every 6 months or 10,000 km, replace every 120,000 km (about 75,000 mi) | Check coil connections every quarter, pull and read the plugs once a year | Mazda verified, practice hands-on |
-| Manual transmission oil | Replace at 48 months or 80,000 km (about 50,000 mi) | Owner community often cites 5 years | ⚠️ Confirm for a 2021 |
-| Rear differential oil | No routine replacement, only if the unit was submerged in water | Owners debate this. The unit holds very little oil and some change it earlier | ⚠️ Open, recommendation pending |
-| Coolant (FL-22) | First replacement at 200,000 km or 10 years, then every 100,000 km or 5 years | Check level and condition once a year | Verified against Mazda pages |
-| Tires | Not a Mazda interval | Check the date code every year and treat tires around six years old as due for replacement whatever the tread says | General guidance, ⚠️ source to add |
-| Battery | Not a Mazda interval | Test once a year, and use a maintenance charger if the car sits for days at a time | Our practice |
-| Top, seals, and drains | Not a Mazda interval | Clear the drains and inspect the seals each spring and after any long sit | Our practice |
-| Underbody inspection on a lift | Not a Mazda interval | Once a year, looking for rust, leaks, and uneven wear | Our practice |
-| Recalls | Not a Mazda interval | Look up your VIN once a year | Our practice |
+| Task | Mazda Schedule 1 | Mazda Schedule 2 | Our practice | Status |
+|---|---|---|---|---|
+| Engine oil and filter | Replace when the wrench indicator light comes on, with a maximum of 12 months or 12,000 km (7,500 mi) | Fixed: every 6 months or 8,000 km (5,000 mi) | Every 5,000 to 7,500 miles or 6 months, whichever comes first, using full synthetic. Reset the oil data after every change | Mazda verified, practice hands-on |
+| Air filter | Replace at 36 months or 36,000 km (22,500 mi) | Replace at 36 months or 48,000 km (30,000 mi), sooner in dusty or sandy areas | Look at it every quarter | Mazda verified |
+| Spark plugs | Replace every 120,000 km (75,000 mi) | Replace every 120,000 km (75,000 mi) | Check coil connections every quarter, pull and read the plugs once a year | Mazda verified, practice hands-on |
+| Brake and clutch fluid level | Not listed | Inspect every 6 months | Look at the reservoir every time the hood is open, and check it when refueling as Mazda suggests | Mazda verified |
+| Brake and clutch fluid replacement | Not listed in the US tables | Not listed in the US tables | Every 24 months, whatever the odometer says. Mazda lists a 24-month replacement in its Mexico tables for the same car | Our practice, supported by Mazda's Mexico table |
+| Disc brakes | Inspect every 12 months | Inspect every 6 months | Look at pad thickness and rotor condition every time a wheel is off | Mazda verified |
+| Brake lines, hoses, and connections | Inspect every 24 months | Inspect every 18 months | Look for wetness and cracking during the yearly lift inspection | Mazda verified |
+| Manual transmission oil | Replace every 96,000 km (60,000 mi) or 4 years | Replace every 48,000 km (30,000 mi) or 2 years | ⚠️ Pending the transmission and differential guide | Mazda verified, ⚠️ practice open |
+| Rear differential oil | No scheduled replacement. Mazda says to replace it if the unit is submerged in water | Same | ⚠️ Owners debate this and some change it earlier. Recommendation pending | Mazda verified, ⚠️ practice open |
+| Coolant (FL-22) | First replacement at 192,000 km (120,000 mi) or 10 years, then every 96,000 km (60,000 mi) or 5 years | Same, plus a level inspection every 6 months | Check level and condition once a year | Mazda verified |
+| Tire rotation | Every 12,000 km (7,500 mi) | Every 8,000 km (5,000 mi) | Rotate with the oil change | Mazda verified |
+| Tire age | Mazda generally recommends replacing tires at 6 years or older | Same | Replace at 5 years at the latest, whatever the tread says | Mazda verified, practice is stricter than Mazda |
+| Tire pressure | Check at least monthly | Same | Same | Mazda verified |
+| Battery | Not a Mazda interval | Not a Mazda interval | Test once a year, and use a maintenance charger if the car sits for days at a time | Our practice |
+| Top, seals, and drains | Not a Mazda interval | Not a Mazda interval | Clear the drains and inspect the seals each spring and after any long sit | Our practice |
+| Underbody inspection on a lift | Not a Mazda interval | Not a Mazda interval | Once a year, looking for rust, leaks, and uneven wear | Our practice |
+| Recalls | Not a Mazda interval | Not a Mazda interval | Look up your VIN once a year | Our practice |
 
 ## The same thing, sorted by how often you touch it
 
-**Every time you open the hood.** A glance. Fluid levels, anything wet, anything loose, anything that looks different from last time. This is the cheapest inspection there is, and it works because you know what normal looks like.
+**Every time you refuel or open the hood.** A glance. Mazda itself lists the brake and clutch fluid level, coolant level, and oil level as the checks to make when refueling. Add anything wet, loose, or different from last time. This is the cheapest inspection there is, and it works because you know what normal looks like.
+
+**Every month.** Tire pressures.
 
 **Every quarter.** A closer look at the coil connections, clips, and boots, plus the air filter.
 
-**Every year.** Pull the plugs and read the tips. Test the battery. Check tire date codes. Put the car on a lift and look underneath. Check for recalls. Change the oil if you have not already.
+**Every six months.** Engine oil and filter, with a tire rotation.
 
-**Every two years.** Brake and clutch fluid.
+**Every year.** Pull the plugs and read the tips. Test the battery. Put the car on a lift and look underneath. Check for recalls.
 
-**Every four to five years.** Transmission oil, pending the confirmation noted above.
+**Every two years.** Brake and clutch fluid. Transmission oil if you follow Schedule 2.
+
+**Every five years at the latest.** Tires, by date code.
 
 ## Verification
 
 Last checked: 2026-10-19
 
-| Item | Source | Status |
-|---|---|---|
-| Brake fluid, level checks, air filter, plugs, transmission oil, differential, coolant intervals | Mazda USA owner's manual, [2020 MX-5 Schedule 1](https://www.mazdausa.com/static/manuals/2020/mx5/contents/07020301.html) | Read from the published page |
-| Brake fluid interval, clutch level checks | Mazda USA owner's manual, [2022 MX-5 Schedule 2](https://www.mazdausa.com/static/manuals/2022/mx-5/contents/07020302.html) | Read from the published page |
-| Transmission oil 5-year figure, differential debate | [MX-5 Owners Club UK service interval thread](https://forum.mx5oc.co.uk/t/service-intervals-nd/93040) | Community, UK market |
+Primary source: the 2021 Mazda MX-5 owner's manual (US edition, document code MX-5_8JS9-EA-20K, Edition 1), read directly from the PDF.
 
-**Still open (⚠️):** engine oil interval, which Mazda schedule applies to a 2021 US car, transmission oil interval for a 2021, our differential recommendation, and a source for the tire age guideline.
+| Item | Where in the manual | Status |
+|---|---|---|
+| Schedule 1 and Schedule 2 tables (US, Canada, Puerto Rico), severe-driving conditions list, flexible oil maintenance, 12-month or 7,500-mile oil maximum | Maintenance and Care chapter, pages 6-4 to 6-7 | Read from the manual |
+| Mexico tables, including the 24-month brake fluid replacement | Maintenance and Care chapter, pages 6-10 to 6-13 | Read from the manual |
+| Owner checks when refueling and monthly tire pressure | Maintenance and Care chapter, Owner Maintenance Precautions | Read from the manual |
+| Tires generally replaced at 6 years or older | Maintenance and Care chapter, Replacing a Tire note | Read from the manual |
+| Fluid specs, FL-22 coolant, and the differential note | Specifications chapter, Lubricant Quality | Read from the manual |
+
+**Source note.** The first pass of this schedule used numbers from Mazda USA web pages, and several of them (24-month brake fluid, 80,000 km transmission oil, 200,000 km coolant) turned out to match the Mexico table and not the US one. Those values were removed. The PDF is the authority for this guide.
+
+**Still open (⚠️):** our recommended transmission oil interval, our differential recommendation, and the Canada table, which differs from the US one and is not covered here.
