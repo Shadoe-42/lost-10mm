@@ -32,7 +32,7 @@ The 2021 Mazda MX-5 (ND2) Grand Touring, because that is the car the authors can
 | Engine oil and filter | Planned |
 | [Transmission and differential fluid](nd2/transmission-and-differential-fluid.md) | Draft |
 | Spark plugs and coils | Planned |
-| Air filters | Planned |
+| [Engine air filter](nd2/air-filter.md) | Draft |
 | Convertible top drain cleaning | Planned |
 | Lift inspection (rust, leaks, wear, bushings, door fit) | Planned |
 
